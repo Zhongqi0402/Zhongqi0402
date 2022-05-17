@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Matthew(Zhongqi) Yue
-- 👀 I’m interested in data science, data analysis, statistcs, machine learning, and artificial intellegence!
+- 👀 I’m interested in software development, data science, machine learning, and artificial intellegence!
 - 🌱 I’m currently studying at University of Waterloo, major in computer science, minor in statistics
-- 💞️ I’m also learning deep learning, netural networks by myself currently. 
-- 👀 I am looking for Coop/Internship opportunity for Summer 2022!
+- 💞️ I’m also learning NLP, netural networks by myself currently. 
+- 👀 I am looking for Coop/Internship opportunity for Winter(Jan-April) 2023!
 - 📫 Please reach me at 1317129990yue@gmail.com if you have any questions!
 
 <!---
